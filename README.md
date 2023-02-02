@@ -20,4 +20,9 @@ You can upload project in Github repository like below
 * [Example MERN Stack Web App - Backend](https://github.com/mohammadadnangm/backend)
 * [Example Hybrid Mobile App in React Native](https://github.com/mohammadadnangm/qquranic_com_mobile)
 
+**Tutorials**
+* [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio)
+* [ASP.NET Core MVC - Entity Framework](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/?view=aspnetcore-6.0)
+* [MERN Stack Tutorial](https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1/)
+
 Best Wishes! :rocket: :airplane:
